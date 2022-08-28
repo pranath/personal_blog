@@ -21,7 +21,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Contact</h5>
   
-<p>You can contact me on <a target="_blank" href="[https://github.com/wowthemesnet/mediumish-theme-jekyll](https://www.linkedin.com/in/pranath-fernando/)">LinkedIn</a></p>
+<p>You can contact me on <a target="_blank" href="https://www.linkedin.com/in/pranath-fernando/">LinkedIn</a></p>
 
 </div>
 </div>
