@@ -23,15 +23,7 @@ comments: true
   
 <p>You can contact me on <a target="_blank" href="https://www.linkedin.com/in/pranath-fernando/">LinkedIn</a></p>
   
-<script type="text/javascript">
-var part1 = "user";
-var part2 = Math.pow(2,6);
-var part3 = String.fromCharCode(part2);
-var part4 = "domain.com"
-var part5 = part1 + String.fromCharCode(part2) + part4;
-document.write("Contact me
-   <href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a>.");
-</script>
+<a href="mailto:&#x70;&#x72;&#x61;&#x6E;&#x61;&#x74;&#x68;&#x66;&commat;&#x79;&#x61;&#x68;&#x6F;&#x6F;&period;&#x63;&#x6F;&period;&#x75;&#x6B;?subject=LivingDataLabArt">Contact Me</a>
 
 </div>
 </div>
