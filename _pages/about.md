@@ -21,9 +21,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Contact</h5>
   
-<p>You can contact me on <a target="_blank" href="https://www.linkedin.com/in/pranath-fernando/">LinkedIn</a></p>
-  
-<a href="mailto:&#x70;&#x72;&#x61;&#x6E;&#x61;&#x74;&#x68;&#x66;&commat;&#x79;&#x61;&#x68;&#x6F;&#x6F;&period;&#x63;&#x6F;&period;&#x75;&#x6B;?subject=LivingDataLabArt">Contact Me</a>
+<a href="mailto:&#x70;&#x72;&#x61;&#x6E;&#x61;&#x74;&#x68;&#x66;&commat;&#x79;&#x61;&#x68;&#x6F;&#x6F;&period;&#x63;&#x6F;&period;&#x75;&#x6B;?subject=LivingDataLabArt">Contact me by email</a>
 
 </div>
 </div>
