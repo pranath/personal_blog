@@ -16,6 +16,8 @@ These online means of human connection often lack the full range of human expres
 
 Many children have now only experienced a mobile only world, where online connections are as normal as in person ones. These technologies have combined with others such as machine learning and AI, to create mobile experiences that are optimised to be as engaging and addictive as possible. It is arguable to what extent we are able to make free choices as to how much we use these devices, [often at the expense](https://theconversation.com/how-our-phones-disconnect-us-when-were-together-130838) of connecting with those in our physical proximity.
 
-![connected]({{ site.baseurl }}/assets/images/connected2.png)
+![connected]({{ site.baseurl }}/assets/images/connected3.png)
 
-Does these mean humans are losing the ability to connect with each other? Or is our idea of connection simply undergoing a radical transformation? And if so, are we choosing this transformation or not? What would the world of the future be like where we use these devices increasingly to connect with each other? How might this effect the development of our society and species?
+Does these mean humans are losing the ability to connect with each other? Or is our idea of connection simply undergoing a radical transformation? And if so, are we choosing this transformation or not? 
+
+What would the world of the future be like where we use these devices increasingly to connect with each other? How might this effect the development of our society and species?
