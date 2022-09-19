@@ -1,7 +1,7 @@
 # Site
-name: "Living Data Lab Art"
-title: "Living Data Lab Art"
-description: ""
+name: "Living Data Lab Blog"
+title: "Living Data Lab Blog"
+description: "Personal Blog of Pranath Fernando, Data Scientist"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
