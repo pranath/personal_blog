@@ -3,6 +3,7 @@ layout: post
 title:  "The Third Attractor: Introduction"
 categories: [third-attractor]
 image: assets/images/third-attractor1.png
+caption: "Test"
 ---
 
 The Third Attractor is a concept developed by <a href="https://civilizationemerging.com/" target="_blank">Daniel Schmachtenberger</a> with regard to the development of our species and civilisation. This idea was explored as a series of two podcast episodes hosted by <a href="https://rebelwisdom.co.uk/" target="_blank">Rebel Wisdom</a>.
