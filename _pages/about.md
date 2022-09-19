@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pranath Fernando, AI Artist
+title: Pranath Fernando, Data Scientist
 permalink: /about
 comments: true
 ---
@@ -8,11 +8,11 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
   
+<p>I currently work as a Data Scientist in the Water Industry. My professional blog can be found <a href="https://www.livingdatalab.com" target="_blank">here</a></p>
+  
 <p>I have an inter-disciplinary background in Computer Science, Artificial Intelligence, Data Science, Somatic Studies & Contemporary Dance.</p>
   
-<p>Some of the main themes that inflence my work are politics, psychology, science, climate change, economics, physics, philosophy, the nature of reality, human connection/disconnection, group dynamics, individualism, alienation and feeling.</p>
-  
-<p>Key tools i use for my work are generative image AI models such as Dall-E and others. I also recognise and acknowledge these AI models as not mere tools, but also co-creators of my work, and as very early forms of a new kind of intelligence who I collaberate with.</p>
+<p>Some my main themes of interest are existental risks to humanity & possible solutions, psychology, science, climate change, economics, physics, philosophy, the nature of reality, human connection/disconnection, group dynamics, individualism, alienation and feeling.</p>
 
 </div>
 
