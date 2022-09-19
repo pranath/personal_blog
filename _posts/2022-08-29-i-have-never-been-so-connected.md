@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I have never been so connected"
-categories: []
+categories: [third-attractor]
 image: assets/images/connected1.png
 ---
 
