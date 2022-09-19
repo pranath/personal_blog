@@ -46,18 +46,18 @@ post_class: post-template
                 </small>
             </p>
             
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
                     </li>
                     {% endfor %}
                 </ul>
             </div>
-            <!-- End Tags -->
+            <!-- End Categories -->
 
             <!-- Post Content -->
             <div class="article-post">
