@@ -5,7 +5,7 @@ categories: [third-attractor]
 image: assets/images/lorenz2.png
 toc: true
 ---
-In this series of articles we will be exploring the ideas around the ['Third Attractor'](https://blog.livingdatalab.com/categories#third-attractor) - a concept relating to the future of our species and civilisation developed by Daniel Schmachtenberger. A brief introduction to these ideas can be found here.
+In this series of articles we will be exploring the ideas around the ['Third Attractor'](https://blog.livingdatalab.com/categories#third-attractor) - a concept relating to the future of our species and civilisation developed by Daniel Schmachtenberger. A brief introduction to these ideas can be found [here](https://blog.livingdatalab.com/the-third-attractor-introduction/).
 
 This article will explore the content of the first podcast laying out Daniel's ideas.
 
